@@ -1,0 +1,14 @@
+000000000class Pd1{
+public static void main(String []args)
+{
+byte age=22;
+System.out.println("The age is" + age);
+short year=2023;
+System.out.println("The year is" + year);
+int salary=400000;
+System.out.println("The salary is" + salary);
+long population=98765432234l;
+System.out.println("The population is" + population);
+
+}
+}
